@@ -2,7 +2,7 @@ version: '3.8'
 services:
     php-apache-environment:
         container_name: php-apache
-        restart: always
+        restart: unless-stopped
         build:
             context: ./
             dockerfile: php-apache
@@ -15,7 +15,7 @@ services:
     db:
         container_name: mysql-database
         image: mysql
-        restart: always
+        restart: unless-stopped
         environment:
             MYSQL_ROOT_PASSWORD: tmppass
             MYSQL_DATABASE: sitedb
