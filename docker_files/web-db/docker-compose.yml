@@ -4,7 +4,7 @@ services:
         container_name: php-apache
         restart: on-failure:5
         build:
-            context: ./php/src
+            context: ./
             dockerfile: php-apache
         depends_on:
             - db
