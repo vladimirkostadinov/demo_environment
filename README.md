@@ -98,4 +98,5 @@ You can find 2 folders - first one is `docker_files` . It contains yml files and
 The second folder contains bash scripts for docker and docker-compose installation.
 > Note: Configure your accounts as sudoers and assign proper permissions over Jenkins working directory 
 
-## Flow
+## Automation - Provisoning, load balancing, flow
+Ahh, yes about all detailed things ... let me explain it on our demo session :blush:
