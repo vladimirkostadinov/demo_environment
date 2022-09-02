@@ -1,5 +1,5 @@
 # Demo Environment
-##![N|Solid](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397199166/e65e3307efe469cfca4295c753e07ab5.png )
+![N|Solid]([https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397199166/e65e3307efe469cfca4295c753e07ab5.png ](https://mms.businesswire.com/media/20211027005980/en/920861/5/EndavaLogo.jpg)
 
 
 [![Build Status](http://kostadiv.asuscomm.com:8080/buildStatus/icon?job=Clone-GitHub-project)](http://192.168.1.50:8080/job/Clone-GitHub-project/)
