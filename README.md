@@ -95,7 +95,7 @@ We are using default recommended plugins, inclding additional:
 
 ### Folder structure content 
 You can find 2 folders - first one is `docker_files` . It contains yml files and dependancies for docker compose of Web, mySQL and Load balancer containers.
-The second folder `install_scripts` contains bash scripts for docker and docker-compose installation.
+The second folder `install_scripts` contains bash scripts for docker and docker-compose actions.
 > Note: Configure your accounts as sudoers and assign proper permissions over Jenkins working directory 
 
 ## Automation - Provisoning, load balancing, flow
