@@ -1,5 +1,5 @@
 # Demo Environment
-##   ![N|Solid](https://i.stack.imgur.com/YTbA5.jpg?s=256&g=1) ![N|Solid](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397199166/e65e3307efe469cfca4295c753e07ab5.png )
+##![N|Solid](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1397199166/e65e3307efe469cfca4295c753e07ab5.png )
 
 
 [![Build Status](http://kostadiv.asuscomm.com:8080/buildStatus/icon?job=Clone-GitHub-project)](http://192.168.1.50:8080/job/Clone-GitHub-project/)
