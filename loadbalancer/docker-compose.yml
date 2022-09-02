@@ -1,0 +1,10 @@
+haproxy:
+    image: haproxy:last
+    volumes:
+        - ./haproxy:/haproxy-override
+        - ./haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
+    ports:
+        - "80:80"
+        - "70:70"
+
+
