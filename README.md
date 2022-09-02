@@ -99,4 +99,4 @@ The second folder contains bash scripts for docker and docker-compose installati
 > Note: Configure your accounts as sudoers and assign proper permissions over Jenkins working directory 
 
 ## Automation - Provisoning, load balancing, flow
-Ahh, yes about all detailed things ... let me explain it on our demo session :blush:
+Ahh, yes about all detailed things ... let me explain them on our demo session :blush:
