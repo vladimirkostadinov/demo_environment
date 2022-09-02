@@ -1,5 +1,5 @@
 haproxy:
-    image: haproxy:last
+    image: haproxy:2.3
     volumes:
         - ./haproxy:/haproxy-override
         - ./haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
