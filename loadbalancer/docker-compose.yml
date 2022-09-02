@@ -1,8 +1,10 @@
 haproxy:
     image: haproxy:2.3
+    container_name: haproxy_web
     volumes:
         - ./haproxy:/haproxy-override
         - ./haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
+    restart: on-failure:5
     ports:
         - "80:80"
         - "70:70"
