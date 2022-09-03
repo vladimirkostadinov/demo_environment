@@ -1,7 +1,7 @@
 haproxy:
     image: haproxy:2.3
     container_name: haproxy_web
-    restart: on-failure:5
+    restart: always
     volumes:
         - ./haproxy:/haproxy-override
         - ./haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro
