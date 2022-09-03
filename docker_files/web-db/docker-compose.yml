@@ -2,6 +2,7 @@ version: '3.8'
 services:
     php-apache-environment:
         container_name: php-apache
+        image: "demo/php-apache"
         restart: always
         build:
             context: ./
@@ -14,7 +15,7 @@ services:
             - 80:80
     db:
         container_name: mysql-database
-        image: mysql
+        image: "demo/mysql"
         restart: always
         environment:
             MYSQL_ROOT_PASSWORD: tmppass
