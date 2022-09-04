@@ -2,7 +2,7 @@
 ![N|Solid](https://mms.businesswire.com/media/20211027005980/en/920861/5/EndavaLogo.jpg) 
 
 
-[![Build Status](http://kostadiv.asuscomm.com:8080/buildStatus/icon?job=Clone-GitHub-project)](http://kostadiv.asuscomm.com:8080/job/Clone-GitHub-project/)
+[![Build Status](http://kostadiv.asuscomm.com:8080/buildStatus/icon?job=Clone-GitHub-project)](http://kostadiv.asuscomm.com:8080/job/demo_environment/job/Clone-GitHub-project/)
 
 The Demo environment is created on private cloud (Home Lab)
 
