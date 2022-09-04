@@ -1,5 +1,5 @@
 haproxy:
-    image: haproxy
+    image: haproxy1
     container_name: haproxy_web
     restart: always
     volumes:
