@@ -1,5 +1,5 @@
 # Demo Environment
-![N|Solid](https://mms.businesswire.com/media/20211027005980/en/920861/5/EndavaLogo.jpg) 
+![N|Solid](https://socradar.io/wp-content/uploads/2022/07/devops-logo.png) 
 
 
 [![Build Status](http://kostadiv.asuscomm.com:8080/buildStatus/icon?job=demo_environment/Clone-GitHub-project)](http://kostadiv.asuscomm.com:8080/job/demo_environment/job/Clone-GitHub-project/)
